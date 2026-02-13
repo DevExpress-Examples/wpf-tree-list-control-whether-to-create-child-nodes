@@ -27,7 +27,7 @@ This example uses the [TreeListView.HasChildNodesPath](https://docs.devexpress.c
 * [WPF Tree List - Implement the Child Nodes Path](https://github.com/DevExpress-Examples/wpf-treelist-implement-childnodespath)
 * [WPF Tree List - Load Nodes Asynchronously Without Locking the Application's UI](https://github.com/DevExpress-Examples/wpf-treelist-load-nodes-asynchronously)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-tree-list-control-whether-to-create-child-nodes&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-tree-list-control-whether-to-create-child-nodes&~~~was_helpful=no)
 
